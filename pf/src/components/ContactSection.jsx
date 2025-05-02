@@ -56,7 +56,7 @@ export default function ContactSection() {
                     <h4 className="font-medium">Email</h4>
                     <a
                       href="mailto:njakaharilantoandriamijeri@gmail.com"
-                      className="text-muted-foreground hover:text-primary transition-colors duration-300"
+                      className="text-muted-foreground text-wrap hover:text-primary transition-colors duration-300"
                     >
                       njakaharilantoandriamijeri@gmail.com
                     </a>
