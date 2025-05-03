@@ -3,13 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Njaka02.github.github.io/React-Tailwind-Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.11",
